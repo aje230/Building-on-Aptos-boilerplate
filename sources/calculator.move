@@ -1,4 +1,4 @@
-module metaschool::calculator_l05
+module metaschool::I_am_a_Calculator_Dapp
 {
     use std::string::{String,utf8};
     use std::signer;
